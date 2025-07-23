@@ -126,13 +126,16 @@ You’re encouraged to use GitHub Copilot to boost productivity. Judges will eva
 
 ---
 
-## 🔐 Recommended Tools
+## 🔐 Suggested Tools
+
+**Tools Flexibility**  
+   - You can use tool of your choice for the below areas, not limited to the below mentioned 
 
 | Area           | Tools                            |
 |----------------|----------------------------------|
 | CI/CD          | GitHub Actions, Azure Pipelines  |
-| Testing        | Jest, Pytest, xUnit              |
-| SAST           | SonarQube, CodeQL                |
+| Testing        | Pytest, xUnit                    |
+| SAST           | SonarQube, CodeQL, Snyk          |
 | SCA            | OWASP Dependency-Check, Snyk     |
 | Secrets Scan   | truffleHog, GitHub Secret Scan   |
 | Deployment     | Docker, Azure App Service, AKS   |
@@ -143,8 +146,7 @@ You’re encouraged to use GitHub Copilot to boost productivity. Judges will eva
 
 1. Push your code, scripts, etc, generated as part of the hackathon to your GitHub repository.
 2. Ensure your repo follows the folder structure.
-3. Invite the judging team as collaborators (if private).
-4. Optional: Record a short demo
+3. Optional: Record a short demo
 
 ---
 
