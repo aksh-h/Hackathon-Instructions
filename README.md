@@ -169,4 +169,4 @@ If you get stuck or need support:
 ---
 
 Happy Hacking! 💻🚀  
-**— The codathon Team**
+**— The Codathon Team**
