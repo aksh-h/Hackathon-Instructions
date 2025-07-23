@@ -168,5 +168,5 @@ If you get stuck or need support:
 
 ---
 
-Happy Hacking! 💻🚀  
+Happy Coding! 💻🚀  
 **— The Codathon Team**
