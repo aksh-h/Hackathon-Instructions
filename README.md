@@ -1,11 +1,11 @@
 
 
-# 🚀  AI-Codeathon 2025 – Participant Instructions <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/48fc7703-6100-4373-b1c5-cc787cdc82cf" />
+# 🚀  AI-Codathon 2025 – Participant Instructions <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/48fc7703-6100-4373-b1c5-cc787cdc82cf" />
 ---
-Welcome to the Codeathon! This guide provides everything you need to know—from setting up your project, using GitHub Copilot effectively, to submitting your solution.
+Welcome to the Codathon! This guide provides everything you need to know—from setting up your project, using GitHub Copilot effectively, to submitting your solution.
 ---
 
-## ⏱️ Codeathon Rules & Participation Guidelines
+## ⏱️ Codathon Rules & Participation Guidelines
 
 1. **Team-Based Challenge Allocation**  
    - Each team will be assigned a **unique challenge/problem statement**.  
@@ -17,7 +17,7 @@ Welcome to the Codeathon! This guide provides everything you need to know—from
    - Ensure your code is committed and pushed before the deadline.
 
 3. **Use of GitHub Copilot**  
-   - You must use **GitHub Copilot** as your AI code assistant during the hack.  
+   - You must use **GitHub Copilot** as your AI code assistant during the codathon.  
    - Prompt examples, suggestions, and completions will be **evaluated as part of your score**.
 
 4. **Language Flexibility**  
@@ -97,16 +97,15 @@ You’re encouraged to use GitHub Copilot to boost productivity. Judges will eva
 
 | Category                          | Points |
 |----------------------------------|--------|
-| Business Requirements Document   | 10     |
+| Business Requirements Document   | 5     |
 | Technical Specification Document | 10     |
 | Architecture Diagram             | 10     |
 | Working Solution                 | 15     |
 | Coding Standards                 | 10     |
-| Effective Copilot Prompts        | 5      |
+| Effective Copilot Prompts        | 10      |
 | Test Cases                       | 10     |
 | CI/CD Pipeline                   | 10     |
-| Deployment Script                | 5      |
-| Security Integrations            | 5      |
+| Security Integrations            | 10     |
 | Bonus (UX, innovation, logs)     | 10     |
 | **Total**                        | **100**|
 
@@ -127,13 +126,16 @@ You’re encouraged to use GitHub Copilot to boost productivity. Judges will eva
 
 ---
 
-## 🔐 Recommended Tools
+## 🔐 Suggested Tools
+
+**Tools Flexibility**  
+   - You can use tool of your choice for the below areas, not limited to the below mentioned 
 
 | Area           | Tools                            |
 |----------------|----------------------------------|
 | CI/CD          | GitHub Actions, Azure Pipelines  |
-| Testing        | Jest, Pytest, xUnit              |
-| SAST           | SonarQube, CodeQL                |
+| Testing        | Pytest, xUnit                    |
+| SAST           | SonarQube, CodeQL, Snyk          |
 | SCA            | OWASP Dependency-Check, Snyk     |
 | Secrets Scan   | truffleHog, GitHub Secret Scan   |
 | Deployment     | Docker, Azure App Service, AKS   |
@@ -144,8 +146,7 @@ You’re encouraged to use GitHub Copilot to boost productivity. Judges will eva
 
 1. Push your code, scripts, etc, generated as part of the hackathon to your GitHub repository.
 2. Ensure your repo follows the folder structure.
-3. Invite the judging team as collaborators (if private).
-4. Optional: Record a short demo
+3. Optional: Record a short demo
 
 ---
 
@@ -167,5 +168,5 @@ If you get stuck or need support:
 
 ---
 
-Happy Hacking! 💻🚀  
-**— The Codeathon Team**
+Happy Coding! 💻🚀  
+**— The Codathon Team**
