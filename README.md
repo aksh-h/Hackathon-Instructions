@@ -158,6 +158,24 @@ Earn extra marks for:
 - Clean logging/observability
 - Reusability and scalability
 
+## 🕒 Codeathon Event Timeline
+
+| Activity                   | Time Slot         |
+|----------------------------|-------------------|
+| 🟢 **Codeathon Kickoff**      | 2:30 PM            |
+| 🧠 **Development Time**       | 3 PM – 5:00 PM   |
+|   - Implement code          |                   |
+|   - Test thoroughly         |                   |
+|   - Push code to GitHub     |                   |
+|   - Add documentation       |                   |
+|   - Submit DB scripts       |                   |
+|   - Create basic infra + deploy |             |
+| 🔍 **Team Evaluation**    | 5:00 PM – 5:15 PM   |
+| 🧑‍⚖️ **Panel Evaluation**      | 5:15 PM – 5:45 PM   |
+| 🏆 **Prize Distribution**     | 5:45 PM – 6:00 PM   |
+
+⏱️ Stay on time and make sure your GitHub repo is up-to-date with all required components by **5:00 PM** sharp!
+
 ---
 
 ## 📢 Need Help?
